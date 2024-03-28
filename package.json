@@ -1,0 +1,18 @@
+{
+  "name": "asn4-mongo-darshil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-validator": "^6.14.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.7.2"
+    
+  }
+}
